@@ -1,0 +1,15 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "pavan",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.6.2"
+  }
+}
